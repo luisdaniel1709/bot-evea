@@ -3,8 +3,8 @@ API_ID = '16536294'
 API_HASH = '0c780f6db3124fafbdc3dcde437e6f21'
 ADMIN_ID = [1180073584]
 
-MOODLE_URL = 'https://evea.uh.cu/'
-MOODLE_USER = 'darian.borges@estudiantes.fbio.uh.cu'
-MOODLE_PASSWORD = 'darian1995'
-PARTES_MB = 100
+MOODLE_URL = 'http://www.aula.scu.sld.cu/'
+MOODLE_USER = 'michel200921'
+MOODLE_PASSWORD = 'Rockstar07*'
+PARTES_MB = 49
 
