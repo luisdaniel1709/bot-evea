@@ -1,8 +1,0 @@
-{
-  "name": "BotuploadFree 7.1",
-  "description": "BotuploadFree bot listo y preparado para subir a las nubes de cuba.",
-  "env": {
-      "url": "https://github.com/heroku/heroku-buildpack-python.git"
-    }
-  ]
-}
